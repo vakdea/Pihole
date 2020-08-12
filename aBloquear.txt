@@ -1,1 +1,6 @@
-#dominios a bloquear
+ib.adnxs.com
+fastlane.rubiconproject.com
+bidder.criteo.com
+sb.scorecardresearch.com
+prg.smartadserver.com
+insights-collector.newrelic.com
