@@ -97,4 +97,8 @@ heapanalytics.com
 bazaarvoice.com
 adlightning.com
 amplitude.com
-
+newrelic.com
+googletagmanager.com
+google-analytics.com
+facebook.net
+quantserve.com
