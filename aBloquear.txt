@@ -104,3 +104,4 @@ facebook.net
 quantserve.com
 redditstatic.com
 ads-twitter.com
+tpc.googlesyndication.com
