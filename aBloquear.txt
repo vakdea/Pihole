@@ -107,3 +107,4 @@ ads-twitter.com
 tpc.googlesyndication.com
 adclick.g.doubleclick.net
 safebrowsing.googleapis.com
+sabmetrics.abc.es
