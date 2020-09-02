@@ -96,8 +96,7 @@ evidon.com
 heapanalytics.com
 bazaarvoice.com
 adlightning.com
-amplitude.com
-newrelic.com
+amplitude.com.com
 googletagmanager.com
 google-analytics.com
 facebook.net
@@ -119,3 +118,13 @@ c.amazon-adsystem.com
 cdn.cxense.com
 googletagservices.com
 connect.facebook.net
+js-agent.newrelic.com
+cdn.exoticads.com
+platform.twitter.com
+secure.quantserve.com
+syndication.twitter.com
+static.scroll.com
+cdn.onthe.io
+secure.quantserve.com
+s.skimresources.com
+platform.twitter.com
