@@ -27,7 +27,6 @@ demdex.net
 digitru.st
 doubleclick.net
 eyeota.net
-facebook.net
 googlesyndication.com
 googletagservices.com
 hotjar.com
@@ -128,3 +127,7 @@ cdn.onthe.io
 secure.quantserve.com
 s.skimresources.com
 platform.twitter.com
+fundingchoicesmessages.google.com
+cdn4.userzoom.com
+cdns.gigya.com
+pubads.g.doubleclick.net
