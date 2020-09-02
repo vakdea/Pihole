@@ -109,3 +109,13 @@ adclick.g.doubleclick.net
 safebrowsing.googleapis.com
 sabmetrics.abc.es
 diagnostics.meethue.com
+tinypass.com
+script.crazyegg.com
+contributor.google.com
+fundingchoicesmessages.google.com
+api-esp.piano.io
+tradedoubler.com
+c.amazon-adsystem.com
+cdn.cxense.com
+googletagservices.com
+connect.facebook.net
