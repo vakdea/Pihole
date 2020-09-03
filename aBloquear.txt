@@ -135,3 +135,16 @@ pubads.g.doubleclick.net
 s.yimg.com
 #telemetría windows
 settings-win.data.microsoft.com
+nexusrules.officeapps.live.com
+aria.microsoft.com
+wpc.v0cdn.net
+iriscoremetadataprod.blob.core.windows.net
+v10.events.data.microsoft.com
+modern.watson.data.microsoft.com.akadns.net
+cy2.vortex.data.microsoft.com.akadns.net
+v10.vortex-win.data.microsoft.com/collect/v1
+watson.telemetry.microsoft.com
+modern.watson.data.microsoft.com.akadns.net
+location-inference-westus.cloudapp.net
+inference.location.live.net
+c.aaxads.com
