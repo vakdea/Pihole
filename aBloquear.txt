@@ -131,3 +131,7 @@ fundingchoicesmessages.google.com
 cdn4.userzoom.com
 cdns.gigya.com
 pubads.g.doubleclick.net
+#yahoo
+s.yimg.com
+#telemetría windows
+settings-win.data.microsoft.com
