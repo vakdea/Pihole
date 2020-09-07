@@ -159,3 +159,12 @@ assets.adobedtm.com
 cdn.insurads.com
 static.vocento.com
 9to5maccom.disqus.com/count.js
+cdn.ghostery.com
+cdn2.ghostery.com
+cmp-cdn.ghostery.com
+d.ghostery.com
+ghostery-collector.ghostery.com
+ghostery-metrics-713401778.us-east-1.elb.amazonaws.com
+ghostery-sign-1030905311.us-east-1.elb.amazonaws.com
+offers.ghostery.com
+safe-browsing.ghostery.com
