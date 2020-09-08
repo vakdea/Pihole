@@ -181,3 +181,4 @@ fundingchoicesmessages.google.com
 tags.tiqcdn.com
 tiqcdn.com
 insurads.com
+static.vocento.com
