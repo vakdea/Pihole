@@ -179,3 +179,5 @@ dmpcdn.el-mundo.net
 api-esp.piano.io
 elmundo-by.accengage.net
 fundingchoicesmessages.google.com
+tags.tiqcdn.com
+tiqcdn.com
