@@ -160,7 +160,9 @@ cdn.insurads.com
 static.vocento.com
 9to5maccom.disqus.com/count.js
 cdn.ghostery.com
+cdn.ghostery.net
 cdn2.ghostery.com
+cdn2.ghostery.net
 cmp-cdn.ghostery.com
 d.ghostery.com
 ghostery-collector.ghostery.com
