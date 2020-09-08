@@ -69,7 +69,6 @@ teads.tv
 upapi.net
 viglink.com
 disqus.com
-krxd.net
 onesignal.com
 assoc-amazon.com
 kampyle.com
@@ -181,3 +180,4 @@ elmundo-by.accengage.net
 fundingchoicesmessages.google.com
 tags.tiqcdn.com
 tiqcdn.com
+insurads.com
