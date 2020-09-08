@@ -174,3 +174,8 @@ amazon-adsystem.com
 c.amazon-adsystem.com
 alb.reddit.com
 redditmedia.com
+e00-elmundo.uecdn.es
+dmpcdn.el-mundo.net
+api-esp.piano.io
+elmundo-by.accengage.net
+fundingchoicesmessages.google.com
