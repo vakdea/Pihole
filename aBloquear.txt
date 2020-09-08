@@ -170,3 +170,7 @@ ghostery-metrics-713401778.us-east-1.elb.amazonaws.com
 ghostery-sign-1030905311.us-east-1.elb.amazonaws.com
 offers.ghostery.com
 safe-browsing.ghostery.com
+amazon-adsystem.com
+c.amazon-adsystem.com
+alb.reddit.com
+redditmedia.com
