@@ -182,3 +182,5 @@ tags.tiqcdn.com
 tiqcdn.com
 insurads.com
 static.vocento.com
+i5.tutiempo.net
+www.tutiempo.net
