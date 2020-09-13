@@ -128,7 +128,6 @@ s.skimresources.com
 platform.twitter.com
 fundingchoicesmessages.google.com
 cdn4.userzoom.com
-cdns.gigya.com
 pubads.g.doubleclick.net
 #yahoo
 s.yimg.com
