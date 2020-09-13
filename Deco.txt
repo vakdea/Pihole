@@ -1,2 +1,6 @@
 netflix.com
-*netflix.com
+nrdp.prod.ftl.netflix.com
+api-global.netflix.com
+uiboot.netflix.com
+secure.netflix.com
+appboot.netflix.com
