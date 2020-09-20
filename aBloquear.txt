@@ -183,3 +183,5 @@ static.vocento.com
 i5.tutiempo.net
 www.tutiempo.net
 stats.windscribe.com
+addthis.com
+onesignal.com
