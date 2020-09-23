@@ -26,6 +26,7 @@ criteo.net
 crwdcntrl.net
 demdex.net
 digitru.st
+prebid.digitru.st
 doubleclick.net
 eyeota.net
 googlesyndication.com
