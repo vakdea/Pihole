@@ -209,3 +209,5 @@ nineto5mac-d.openx.net
 support.meetcarrot.com
 upapi.net
 sharethis.com
+platform-api.sharethis.com
+rcm-eu.amazon-adsystem.com
