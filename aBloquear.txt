@@ -211,3 +211,5 @@ upapi.net
 sharethis.com
 platform-api.sharethis.com
 rcm-eu.amazon-adsystem.com
+weatherwidget.io
+forecast7.com
