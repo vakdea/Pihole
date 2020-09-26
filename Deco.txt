@@ -4,3 +4,5 @@ api-global.netflix.com
 uiboot.netflix.com
 secure.netflix.com
 appboot.netflix.com
+google.com
+google.es
