@@ -215,3 +215,7 @@ weatherwidget.io
 forecast7.com
 engagement.feedly.com
 niantic.helpshift.com
+seekrtech-forest.s3.amazonaws.com
+seekrtech-l10n.s3.amazonaws.com
+newsroom.seekrtech.com
+newsroom-rb25.rtvqtinxcx.ap-southeast-1.elasticbeanstalk.com
