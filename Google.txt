@@ -19,3 +19,4 @@ firebasedynamiclinks-ipv6.googleapis.com
 calendar.google.com
 suggestqueries.google.com
 firebaseinstallations.googleapis.com
+cloudconfig.googleapis.com
