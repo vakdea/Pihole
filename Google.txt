@@ -1,1 +1,15 @@
 googleapis.com
+iid.googleapis.com
+gcs-eu-00002.content-storage-upload.googleapis.com
+www.googleapis.com
+play.googleapis.com
+oauth2.googleapis.com
+fonts.googleapis.com
+device-provisioning.googleapis.com
+storage.googleapis.com
+fcmtoken.googleapis.com
+ajax.googleapis.com
+maps.googleapis.com
+oauthaccountmanager.googleapis.com
+youtubei.googleapis.com
+people-pa.googleapis.com
