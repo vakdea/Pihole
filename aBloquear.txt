@@ -223,3 +223,4 @@ s3-ap-southeast-1-w.amazonaws.com
 dinopoloclub.com
 istanbul.dinopoloclub.com
 api.dinopoloclub.com
+fireproofgames.com
