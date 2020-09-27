@@ -228,3 +228,4 @@ offers-api.ghostery.net
 https://app-measurement.com/sdk-exp
 wup-8013fd3e.eu.v2.we-stats.com
 we-stats.com
+log-8013fd3e.eu.v2.we-stats.com
