@@ -20,3 +20,5 @@ calendar.google.com
 suggestqueries.google.com
 firebaseinstallations.googleapis.com
 cloudconfig.googleapis.com
+content.googleapis.com
+apis.google.com
