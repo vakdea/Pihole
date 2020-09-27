@@ -22,3 +22,4 @@ firebaseinstallations.googleapis.com
 cloudconfig.googleapis.com
 content.googleapis.com
 apis.google.com
+connectivitycheck.gstatic.com
