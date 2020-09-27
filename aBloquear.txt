@@ -214,3 +214,7 @@ rcm-eu.amazon-adsystem.com
 weatherwidget.io
 forecast7.com
 engagement.feedly.com
+firebaseremoteconfig.googleapis.com
+firebasedynamiclinks-ipv6.googleapis.com
+calendar.google.com
+suggestqueries.google.com
