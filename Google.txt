@@ -13,3 +13,4 @@ maps.googleapis.com
 oauthaccountmanager.googleapis.com
 youtubei.googleapis.com
 people-pa.googleapis.com
+firebaseinappmessaging.googleapis.com
