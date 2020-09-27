@@ -224,3 +224,4 @@ dinopoloclub.com
 istanbul.dinopoloclub.com
 api.dinopoloclub.com
 fireproofgames.com
+offers-api.ghostery.net
