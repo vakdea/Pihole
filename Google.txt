@@ -14,3 +14,7 @@ oauthaccountmanager.googleapis.com
 youtubei.googleapis.com
 people-pa.googleapis.com
 firebaseinappmessaging.googleapis.com
+firebaseremoteconfig.googleapis.com
+firebasedynamiclinks-ipv6.googleapis.com
+calendar.google.com
+suggestqueries.google.com
