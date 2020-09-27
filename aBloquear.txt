@@ -220,3 +220,6 @@ seekrtech-l10n.s3.amazonaws.com
 newsroom.seekrtech.com
 newsroom-rb25.rtvqtinxcx.ap-southeast-1.elasticbeanstalk.com
 s3-ap-southeast-1-w.amazonaws.com
+dinopoloclub.com
+istanbul.dinopoloclub.com
+api.dinopoloclub.com
