@@ -225,3 +225,4 @@ istanbul.dinopoloclub.com
 api.dinopoloclub.com
 fireproofgames.com
 offers-api.ghostery.net
+https://app-measurement.com/sdk-exp
