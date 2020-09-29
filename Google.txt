@@ -7,10 +7,7 @@ fonts.googleapis.com
 device-provisioning.googleapis.com
 storage.googleapis.com
 fcmtoken.googleapis.com
-ajax.googleapis.com
-maps.googleapis.com
 oauthaccountmanager.googleapis.com
-youtubei.googleapis.com
 people-pa.googleapis.com
 firebaseinappmessaging.googleapis.com
 firebaseremoteconfig.googleapis.com
