@@ -230,3 +230,4 @@ wup-8013fd3e.eu.v2.we-stats.com
 we-stats.com
 log-8013fd3e.eu.v2.we-stats.com
 niantic.helpshift.com
+diagnostics.meethue.com
