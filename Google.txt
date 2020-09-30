@@ -20,4 +20,3 @@ content.googleapis.com
 apis.google.com
 connectivitycheck.gstatic.com
 mqtt.2030.ltsapis.goog
-gcs-eu-00002.content-storage-upload.googleapis.com
