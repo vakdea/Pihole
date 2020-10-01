@@ -5,7 +5,6 @@ play.googleapis.com
 oauth2.googleapis.com
 fonts.googleapis.com
 device-provisioning.googleapis.com
-storage.googleapis.com
 fcmtoken.googleapis.com
 oauthaccountmanager.googleapis.com
 people-pa.googleapis.com
