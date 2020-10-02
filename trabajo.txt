@@ -1,1 +1,2 @@
 detectportal.firefox.com
+location.services.mozilla.com
