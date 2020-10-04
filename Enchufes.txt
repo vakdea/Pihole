@@ -3,3 +3,4 @@ eu.nooie.com
 node-eu.nooie.com
 eup2p.nooie.com
 a3.tuyaeu.com
+m2.tuyaeu.com
