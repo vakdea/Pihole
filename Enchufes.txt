@@ -1,4 +1,4 @@
 brain.nooie.com
 eu.nooie.com
-node-eu.nooie.com	
+node-eu.nooie.com
 eup2p.nooie.com
