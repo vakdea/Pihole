@@ -237,3 +237,4 @@ wup-8013fd3e.we-stats.com
 moduleanalysis.aliexpress.com
 location.services.mozilla.com
 tracking.feedpress.com
+prod.telemetry.tableausoftware.com
