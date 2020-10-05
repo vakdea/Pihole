@@ -2,3 +2,4 @@ detectportal.firefox.com
 location.services.mozilla.com
 www.bing.com
 i1.social.s-msft.com
+maps.windows.com
