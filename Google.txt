@@ -10,3 +10,5 @@ calendar.google.com
 firebaseinstallations.googleapis.com
 connectivitycheck.gstatic.com
 mqtt.2030.ltsapis.goog
+suggestqueries.google.com		
+suggestqueries.l.google.com
