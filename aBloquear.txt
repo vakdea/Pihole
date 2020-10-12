@@ -240,3 +240,9 @@ moduleanalysis.aliexpress.com
 location.services.mozilla.com
 tracking.feedpress.com
 prod.telemetry.tableausoftware.com
+^analytics?[-.]
+^metric?[-.]
+^stats?[-.]
+^track?[-.]
+^telemetry?[-.]
+^ads?[-.]
