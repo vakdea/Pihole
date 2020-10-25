@@ -246,3 +246,5 @@ prod.telemetry.tableausoftware.com
 ^track?[-.]
 ^telemetry?[-.]
 ^ads?[-.]
+ravenjs.com
+go-pulse.net
