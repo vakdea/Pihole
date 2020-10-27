@@ -4,6 +4,7 @@
 #iphonesubmissions.apple.com
 #keyvalueservice.fe.apple-dns.net
 
+graph.facebook.com
 choices.consentframework.com
 cache.consentframework.com
 sddan.mgr.consensu.org
