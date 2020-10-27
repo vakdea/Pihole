@@ -4,6 +4,12 @@
 #iphonesubmissions.apple.com
 #keyvalueservice.fe.apple-dns.net
 
+instagram.com
+facebook.com
+star.c10r.facebook.com
+www.facebook.com
+z-p42-instagram.c10r.facebook.com
+www.instagram.com
 wifi-doctor.org
 tinypass.com
 graph.facebook.com
