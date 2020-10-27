@@ -4,6 +4,7 @@
 #iphonesubmissions.apple.com
 #keyvalueservice.fe.apple-dns.net
 
+wifi-doctor.org
 tinypass.com
 graph.facebook.com
 choices.consentframework.com
