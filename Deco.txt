@@ -8,3 +8,4 @@ google.com
 google.es
 www.google.com
 nrdp.nccp.netflix.com
+www.yahoo.com
