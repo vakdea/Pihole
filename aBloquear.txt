@@ -1,4 +1,5 @@
 recommendations.weblogssl.com
+chrome.cloudflare-dns.com
 analytics.isciii.es
 app-measurement.com
 ib.adnxs.com
