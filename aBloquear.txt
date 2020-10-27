@@ -4,6 +4,7 @@
 #iphonesubmissions.apple.com
 #keyvalueservice.fe.apple-dns.net
 
+json.spxl.socy.es
 scontent-mad1-1.cdninstagram.com
 instagram.com
 facebook.com
