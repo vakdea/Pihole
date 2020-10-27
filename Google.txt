@@ -1,8 +1,8 @@
 
-play.googleapis.com
-fonts.googleapis.com
-device-provisioning.googleapis.com
-people-pa.googleapis.com
+#play.googleapis.com
+#fonts.googleapis.com
+#device-provisioning.googleapis.com
+#people-pa.googleapis.com
 firebaseinappmessaging.googleapis.com
 firebaseremoteconfig.googleapis.com
 firebasedynamiclinks-ipv6.googleapis.com
@@ -12,3 +12,4 @@ connectivitycheck.gstatic.com
 mqtt.2030.ltsapis.goog
 suggestqueries.google.com		
 suggestqueries.l.google.com
+calendar.google.com
