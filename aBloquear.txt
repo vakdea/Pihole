@@ -14,6 +14,7 @@ recommendations.weblogssl.com
 chrome.cloudflare-dns.com
 privatestats.whatsapp.net
 coll-ap.wifi-doctor.org
+star.c10r.facebook.com
 star-mini.c10r.facebook.com
 analytics.isciii.es
 app-measurement.com
