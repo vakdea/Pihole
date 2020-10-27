@@ -7,3 +7,4 @@ appboot.netflix.com
 google.com
 google.es
 www.google.com
+nrdp.nccp.netflix.com
