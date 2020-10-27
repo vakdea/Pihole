@@ -13,3 +13,4 @@ mqtt.2030.ltsapis.goog
 suggestqueries.google.com		
 suggestqueries.l.google.com
 calendar.google.com
+dns.google.com
