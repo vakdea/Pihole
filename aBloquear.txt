@@ -248,3 +248,4 @@ prod.telemetry.tableausoftware.com
 ^ads?[-.]
 ravenjs.com
 go-pulse.net
+diagnostics.meethue.com
