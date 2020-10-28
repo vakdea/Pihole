@@ -4,6 +4,7 @@
 #iphonesubmissions.apple.com
 #keyvalueservice.fe.apple-dns.net
 
+www.signify.com
 firebaseio.com
 cdn.geni.us
 geni.us
