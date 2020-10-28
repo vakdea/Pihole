@@ -4,6 +4,7 @@
 #iphonesubmissions.apple.com
 #keyvalueservice.fe.apple-dns.net
 
+firebaseio.com
 cdn.geni.us
 geni.us
 tags.tiqcdn.com
