@@ -4,6 +4,12 @@
 #iphonesubmissions.apple.com
 #keyvalueservice.fe.apple-dns.net
 
+tags.tiqcdn.com
+pixelcounter
+tradedoubler.com
+js-agent.newrelic.com
+fundingchoicesmessages.google.com
+static.abc.es/nibara/4.1.0/trackingVtm.js
 www.combinacionganadora.com
 json.spxl.socy.es
 scontent-mad1-1.cdninstagram.com
