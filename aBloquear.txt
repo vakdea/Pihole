@@ -289,5 +289,6 @@ prod.telemetry.tableausoftware.com
 ravenjs.com
 go-pulse.net
 diagnostics.meethue.com
+gdpr-web-dau-prod.privacymanager.io
 gdpr-web-logs-prod.privacymanager.io
 gdpr.privacymanager.io
