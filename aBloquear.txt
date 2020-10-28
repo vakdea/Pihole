@@ -4,6 +4,7 @@
 #iphonesubmissions.apple.com
 #keyvalueservice.fe.apple-dns.net
 
+https://client.crisp.chat/l.js
 www.signify.com
 firebaseio.com
 cdn.geni.us
