@@ -4,6 +4,7 @@
 #iphonesubmissions.apple.com
 #keyvalueservice.fe.apple-dns.net
 
+gdpr-wrapper.privacymanager.io
 shb.richaudience.com
 datadoghq-browser-agent.com
 https://client.crisp.chat/l.js
