@@ -4,6 +4,7 @@
 #iphonesubmissions.apple.com
 #keyvalueservice.fe.apple-dns.net
 
+widgetgleamjsio.crowd9ptyltd.netdna-cdn.com
 gdpr-wrapper.privacymanager.io
 shb.richaudience.com
 datadoghq-browser-agent.com
