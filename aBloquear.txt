@@ -4,6 +4,10 @@
 #iphonesubmissions.apple.com
 #keyvalueservice.fe.apple-dns.net
 
+experience.tinypass.com
+api-v3.tinypass.com
+cdn.tinypass.com
+tinypass.com
 widget.gleamjs.io
 widgetgleamjsio.crowd9ptyltd.netdna-cdn.com
 gdpr-wrapper.privacymanager.io
