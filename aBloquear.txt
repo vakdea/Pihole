@@ -4,6 +4,7 @@
 #iphonesubmissions.apple.com
 #keyvalueservice.fe.apple-dns.net
 
+wallapop.helpshift.com
 spixel.socy.es
 firebaselogging-pa.googleapis.com
 experience.tinypass.com
