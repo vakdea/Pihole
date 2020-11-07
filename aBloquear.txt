@@ -4,6 +4,7 @@
 #iphonesubmissions.apple.com
 #keyvalueservice.fe.apple-dns.net
 
+metrics.icloud.com
 supercell.helpshift.com
 inbox.brawlstars.com
 wallapop.helpshift.com
