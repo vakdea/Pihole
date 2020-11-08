@@ -4,6 +4,7 @@
 #iphonesubmissions.apple.com
 #keyvalueservice.fe.apple-dns.net
 
+improving.duckduckgo.com
 securemetrics.experience.apple
 metrics.icloud.com
 supercell.helpshift.com
