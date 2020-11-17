@@ -3,6 +3,7 @@
 #device-provisioning.googleapis.com
 #people-pa.googleapis.com
 
+gstaticadssl.l.google.com
 firebaseinappmessaging.googleapis.com
 firebaseremoteconfig.googleapis.com
 firebasedynamiclinks-ipv6.googleapis.com
