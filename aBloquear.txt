@@ -4,6 +4,8 @@
 #iphonesubmissions.apple.com
 #keyvalueservice.fe.apple-dns.net
 
+weather-analytics-events.apple.com
+weather-analytics-events.news.apple-dns.net
 improving.duckduckgo.com
 securemetrics.experience.apple
 metrics.icloud.com
