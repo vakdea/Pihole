@@ -4,6 +4,10 @@
 #iphonesubmissions.apple.com
 #keyvalueservice.fe.apple-dns.net
 
+
+wpad.lan
+gdpr-consent-tool.privacymanager.io
+inbox-production.esports.clashroyale.com
 smoot-feedback.v.aaplimg.com
 weather-analytics-events.apple.com
 weather-analytics-events.news.apple-dns.net
@@ -11,7 +15,6 @@ improving.duckduckgo.com
 securemetrics.experience.apple
 metrics.icloud.com
 supercell.helpshift.com
-inbox.brawlstars.com
 wallapop.helpshift.com
 spixel.socy.es
 firebaselogging-pa.googleapis.com
