@@ -4,6 +4,7 @@
 #iphonesubmissions.apple.com
 #keyvalueservice.fe.apple-dns.net
 
+iphonesubmissions.apple.com
 zopim.com
 wpad.lan
 gdpr-consent-tool.privacymanager.io
