@@ -15,7 +15,6 @@ weather-analytics-events.news.apple-dns.net
 improving.duckduckgo.com
 securemetrics.experience.apple
 metrics.icloud.com
-supercell.helpshift.com
 wallapop.helpshift.com
 spixel.socy.es
 firebaselogging-pa.googleapis.com
@@ -296,7 +295,6 @@ https://app-measurement.com/sdk-exp
 wup-8013fd3e.eu.v2.we-stats.com
 we-stats.com
 log-8013fd3e.eu.v2.we-stats.com
-niantic.helpshift.com
 diagnostics.meethue.com
 flume.vtvanalytics.com
 oferplan.sevilla.abc.es
@@ -313,7 +311,6 @@ prod.telemetry.tableausoftware.com
 ^ads?[-.]
 ravenjs.com
 go-pulse.net
-diagnostics.meethue.com
 gdpr-web-dau-prod.privacymanager.io
 gdpr-web-logs-prod.privacymanager.io
 gdpr.privacymanager.io
