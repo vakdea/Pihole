@@ -52,3 +52,5 @@ bubblewitch3mobile.king.com
 oem.twimg.com
 modern.watson.data.microsoft.com.akadns.net
 wildcard.twimg.com
+tlu.dl.delivery.mp.microsoft.com
+dl.delivery.mp.microsoft.com
