@@ -7,3 +7,5 @@ www2.bing.com
 aefd.nelreports.net
 www.msftconnecttest.com
 checkappexec.microsoft.com
+v20.events.data.microsoft.com
+events.data.microsoft.com
