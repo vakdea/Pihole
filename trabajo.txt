@@ -40,3 +40,15 @@ https://weus2watcab01.blob.core.windows.net
 https://weus2watcab02.blob.core.windows.net
 https://kmwatsonc.events.data.microsoft.com
 https://oca.telemetry.microsoft.com
+*.telemetry.microsoft.com
+telemetry.microsoft.com
+co4.telecommand.telemetry.microsoft.com.akadns.net
+cs11.wpc.v0cdn.net
+location-inference-westus.cloudapp.net
+modern.watson.data.microsoft.com.akadns.net
+tile-service.weather.microsoft.com/*
+candycrush.king.com
+bubblewitch3mobile.king.com
+oem.twimg.com
+modern.watson.data.microsoft.com.akadns.net
+wildcard.twimg.com
