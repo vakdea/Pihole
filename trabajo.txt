@@ -6,3 +6,4 @@ maps.windows.com
 www2.bing.com
 aefd.nelreports.net
 www.msftconnecttest.com
+checkappexec.microsoft.com
