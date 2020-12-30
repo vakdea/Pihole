@@ -4,6 +4,12 @@
 #iphonesubmissions.apple.com
 #keyvalueservice.fe.apple-dns.net
 
+iadcontent.apple.com
+iadsdk.apple.com
+mesu.g.aaplimg.com
+.+comscoreresearch.+
+(\.|^)apple\.comscoreresearch\.com$
+(\.|^)e4805\.dsca\.akamaiedge\.net$
 tracker.rastreator.com
 iphonesubmissions.apple.com
 zopim.com
