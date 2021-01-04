@@ -1,3 +1,5 @@
+clo.footprintdns.com
+footprintdns.com
 detectportal.firefox.com
 location.services.mozilla.com
 www.bing.com
