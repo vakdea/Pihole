@@ -4,6 +4,19 @@
 #iphonesubmissions.apple.com
 #keyvalueservice.fe.apple-dns.net
 
+cdn.amplitude.com
+connectivity-check.ubuntu.com
+eas3.msg.t-mobile.com
+firebaselogging.googleapis.com
+firebaseremoteconfig.googleapis.com
+firefox.settings.services.mozilla.com
+getpocket.cdn.mozilla.net
+health.apple.com
+registry.my-netdata.io
+self.events.data.microsoft.com
+upload.fp.measure.office.com
+upload2.fp.measure.office.com
+widget-mediator.zopim.com
 iadcontent.apple.com
 iadsdk.apple.com
 mesu.g.aaplimg.com
