@@ -4,7 +4,9 @@
 #iphonesubmissions.apple.com
 #keyvalueservice.fe.apple-dns.net
 
+gameberrylabs.helpshift.com
 cdn.amplitude.com
+dns.msftncsi.com
 connectivity-check.ubuntu.com
 eas3.msg.t-mobile.com
 firebaselogging.googleapis.com
@@ -19,7 +21,6 @@ upload2.fp.measure.office.com
 widget-mediator.zopim.com
 iadcontent.apple.com
 iadsdk.apple.com
-mesu.g.aaplimg.com
 .+comscoreresearch.+
 (\.|^)apple\.comscoreresearch\.com$
 (\.|^)e4805\.dsca\.akamaiedge\.net$
