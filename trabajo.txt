@@ -61,4 +61,6 @@ mobile.pipe.aria.microsoft.com
 *.*tlu.dl.delivery.mp.microsoft.com
 2.tlu.dl.delivery.mp.microsoft.com
 9.tlu.dl.delivery.mp.microsoft.com
+3.tlu.dl.delivery.mp.microsoft.com
+11.tlu.dl.delivery.mp.microsoft.com
 dns.msftncsi.com
