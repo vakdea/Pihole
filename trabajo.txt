@@ -57,3 +57,8 @@ wildcard.twimg.com
 tlu.dl.delivery.mp.microsoft.com
 dl.delivery.mp.microsoft.com
 mobile.pipe.aria.microsoft.com
+*tlu.dl.delivery.mp.microsoft.com
+*.*tlu.dl.delivery.mp.microsoft.com
+2.tlu.dl.delivery.mp.microsoft.com
+9.tlu.dl.delivery.mp.microsoft.com
+dns.msftncsi.com
