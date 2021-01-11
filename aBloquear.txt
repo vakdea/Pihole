@@ -4,6 +4,10 @@
 #iphonesubmissions.apple.com
 #keyvalueservice.fe.apple-dns.net
 
+gameberrylabs.helpshift.com
+cdninstagram.com			
+scontent-lhr8-1.cdninstagram.com
+scontent-lhr8-2.cdninstagram.com
 consent.cookiebot.com
 crl.comodoca.com
 gameberrylabs.helpshift.com
