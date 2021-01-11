@@ -4,6 +4,7 @@
 #iphonesubmissions.apple.com
 #keyvalueservice.fe.apple-dns.net
 
+crl.comodoca.com
 gameberrylabs.helpshift.com
 cdn.amplitude.com
 dns.msftncsi.com
