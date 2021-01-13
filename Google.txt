@@ -12,6 +12,7 @@ googleads.g.doubleclick.com
 *8vq54voxn25po-n89l.googlevideo.com
 r2---sn-8vq54voxn25po-n89l.googlevideo.com
 r1---sn-8vq54voxn25po-n89l.googlevideo.com
+r1---sn-h5qzen7l.googlevideo.com
 r3---sn-8vq54voxn25po-n89e.googlevideo.com
 r5---sn-h5q7dnld.googlevideo.com
 r5---sn-8vq54voxn25po-n89l.googlevideo.com
