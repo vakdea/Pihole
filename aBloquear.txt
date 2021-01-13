@@ -4,6 +4,11 @@
 #iphonesubmissions.apple.com
 #keyvalueservice.fe.apple-dns.net
 
+stats.wp.com/e-202102.js
+www.ecijaldia.es/wp-content/plugins/simple-google-analytics
+www.ecijaldia.es/wp-content/plugins/simple-google-analytics/cache/local-ga.js
+www.google.com/gen_204?atyp=i&ei=nbL-X4e9EsqV8gKi-oLQAg&ct=slh&v=t1&pv=0.4076439218643051&me=31:1610527391661,V,0,0,0,0:2828,V,0,0,1536,726:349,e,H&zx=1610527394839
+api.github.com/_private/browser/stats
 gameberrylabs.helpshift.com
 cdninstagram.com			
 scontent-lhr8-1.cdninstagram.com
