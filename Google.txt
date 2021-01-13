@@ -5,9 +5,14 @@
 
 mail-ads.google.com/
 googleads.g.doubleclick.com
+8vq54voxn25po-n89e.googlevideo.com
+*8vq54voxn25po-n89e.googlevideo.com
 *n89l.googlevideo.com
 8vq54voxn25po-n89l.googlevideo.com
 *8vq54voxn25po-n89l.googlevideo.com
+r2---sn-8vq54voxn25po-n89l.googlevideo.com
+r1---sn-8vq54voxn25po-n89l.googlevideo.com
+r3---sn-8vq54voxn25po-n89e.googlevideo.com
 r5---sn-h5q7dnld.googlevideo.com
 r5---sn-8vq54voxn25po-n89l.googlevideo.com
 r4---sn-h5q7knel.googlevideo.com
