@@ -3,6 +3,10 @@
 #device-provisioning.googleapis.com
 #people-pa.googleapis.com
 
+*n89l.googlevideo.com
+8vq54voxn25po-n89l.googlevideo.com
+*8vq54voxn25po-n89l.googlevideo.com
+r5---sn-8vq54voxn25po-n89l.googlevideo.com
 content-autofill.googleapis.com
 r4---sn-8vq54voxn25po-n89l.googlevideo.com
 firebaseperusertopics-pa.googleapis.com
