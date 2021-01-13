@@ -4,6 +4,10 @@
 #iphonesubmissions.apple.com
 #keyvalueservice.fe.apple-dns.net
 
+api.rewards.brave.com
+grant.rewards.brave.com
+safebrowsing.brave.com
+ipv6.msftconnecttest.com
 www.youtube.com/api/stats/
 stats.wp.com/e-202102.js
 www.ecijaldia.es/wp-content/plugins/simple-google-analytics
