@@ -4,6 +4,7 @@
 #iphonesubmissions.apple.com
 #keyvalueservice.fe.apple-dns.net
 
+www.youtube.com/api/stats/
 stats.wp.com/e-202102.js
 www.ecijaldia.es/wp-content/plugins/simple-google-analytics
 www.ecijaldia.es/wp-content/plugins/simple-google-analytics/cache/local-ga.js
