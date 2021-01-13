@@ -3,12 +3,16 @@
 #device-provisioning.googleapis.com
 #people-pa.googleapis.com
 
+
+googleads.g.doubleclick.com
 *n89l.googlevideo.com
 8vq54voxn25po-n89l.googlevideo.com
 *8vq54voxn25po-n89l.googlevideo.com
+r5---sn-h5q7dnld.googlevideo.com
 r5---sn-8vq54voxn25po-n89l.googlevideo.com
-content-autofill.googleapis.com
+r4---sn-h5q7knel.googlevideo.com
 r4---sn-8vq54voxn25po-n89l.googlevideo.com
+content-autofill.googleapis.com
 firebaseperusertopics-pa.googleapis.com
 gstaticadssl.l.google.com
 firebaseinappmessaging.googleapis.com
