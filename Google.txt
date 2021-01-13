@@ -3,7 +3,7 @@
 #device-provisioning.googleapis.com
 #people-pa.googleapis.com
 
-mail-ads.google.com/
+mail-ads.google.com
 googleads.g.doubleclick.com
 8vq54voxn25po-n89e.googlevideo.com
 *8vq54voxn25po-n89e.googlevideo.com
