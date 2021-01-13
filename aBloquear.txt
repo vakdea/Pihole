@@ -4,6 +4,8 @@
 #iphonesubmissions.apple.com
 #keyvalueservice.fe.apple-dns.net
 
+
+static.abc.es/nibara/4.1.16/trackingVtm.js
 api.rewards.brave.com
 grant.rewards.brave.com
 safebrowsing.brave.com
