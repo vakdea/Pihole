@@ -1,3 +1,4 @@
+rum14.perf.linkedin.com
 clo.footprintdns.com
 footprintdns.com
 detectportal.firefox.com
