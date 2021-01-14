@@ -4,6 +4,8 @@
 #iphonesubmissions.apple.com
 #keyvalueservice.fe.apple-dns.net
 
+ecijaldia.es/wp-content/plugins/simple-google-analytics/cache/local-ga.js
+www.ecijaldia.es/wp-content/plugins/simple-google-analytics/cache/local-ga.js
 static.abc.es/nibara/*/trackingVtm.js
 static.abc.es/nibara/4.1.16/trackingVtm.js
 api.rewards.brave.com
