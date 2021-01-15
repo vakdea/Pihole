@@ -3,6 +3,12 @@
 #device-provisioning.googleapis.com
 #people-pa.googleapis.com
 
+
+
+r6---sn-2gb7sn7k.googlevideo.com
+r5---sn-a5mekner.googlevideo.com
+r3---sn-8vq54voxn25po-n89l.googlevideo.com
+r4---sn-h5q7dned.googlevideo.com
 mail-ads.google.com
 googleads.g.doubleclick.com
 8vq54voxn25po-n89e.googlevideo.com
