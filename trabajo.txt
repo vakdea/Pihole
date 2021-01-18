@@ -1,3 +1,4 @@
+^.lan
 wpad.lan
 rum14.perf.linkedin.com
 clo.footprintdns.com
