@@ -4,6 +4,7 @@
 #iphonesubmissions.apple.com
 #keyvalueservice.fe.apple-dns.net
 
+rewards.brave.com
 master-gigya.abc.es
 www.ecijaldia.es/wp-content/plugins/simple-google-analytics
 ecijaldia.es/wp-content/plugins/simple-google-analytics/cache/local-ga.js
