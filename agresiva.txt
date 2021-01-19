@@ -513,7 +513,6 @@
 0.0.0.0 scripts.static-od.com
 0.0.0.0 sdk.privacy-center.org
 0.0.0.0 secure-assets.rubiconproject.com
-0.0.0.0 secure.gravatar.com
 0.0.0.0 secure.statcounter.com
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 seedtag.com
