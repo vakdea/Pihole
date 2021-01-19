@@ -3,7 +3,52 @@
 #device-provisioning.googleapis.com
 #people-pa.googleapis.com
 
+# - {Anti-AndroidAuto}
+0.0.0.0 androidauto-pa.googleapis.com
+#
+# - {Anti-SafeBrowsing}
+0.0.0.0 android-safebrowsing.googleapis.com
+0.0.0.0 safebrowsing.google.com
+0.0.0.0 safebrowsing.googleapis.com
+0.0.0.0 sb-ssl.google.com
+0.0.0.0 sb.l.google.com
 
+# - {Anti-Firebase}
+#   > Some apps are rely to that, especially for deploy GDPR, personal data concerns agreement, etc.
+#   > However, "Firebase" are widely know as bug tracker and data analytic capturer!
+#   > So, not just only app devs know those data, but "Google" also knows, too!!
+#   > Even though all informations are anonymous, it doesn't mean they have rights to collect and use them!!!
+0.0.0.0 firebaseinstallations.googleapis.com
+0.0.0.0 firebaseremoteconfig.googleapis.com
+
+
+# - {Anti-Lens}
+0.0.0.0 lens-pa.googleapis.com
+0.0.0.0 lensphotos-pa.googleapis.com
+#
+# - {Anti-network quality measure}
+#
+# - {Google accounts info?}
+0.0.0.0 mdh-pa.googleapis.com
+0.0.0.0 people-pa.googleapis.com
+#
+# - {Anti-GoogleNews Apps}
+0.0.0.0 newslegacy-pa.googleapis.com
+
+#
+# - {Anti-hotword suggestions that use GoogleAPIs endpoint}
+0.0.0.0 suggestqueries.googleapis.com
+#
+# - {YouTube video ads stats?}
+#   > Use NewPipe, SkyTube and/or Invidious instead, damnit!
+0.0.0.0 video-ad-stats.googlesyndication.com
+#
+# - {Content subservers}
+0.0.0.0 content-autofill.googleapis.com
+0.0.0.0 content-calendar-pa.googleapis.com
+0.0.0.0 content-cloudusersettings-pa.googleapis.com
+0.0.0.0 content-people-pa.googleapis.com
+0.0.0.0 content-reminders-pa.googleapis.com
 
 r6---sn-2gb7sn7k.googlevideo.com
 r5---sn-a5mekner.googlevideo.com
