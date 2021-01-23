@@ -4,6 +4,8 @@
 #iphonesubmissions.apple.com
 #keyvalueservice.fe.apple-dns.net
 
+giphy.com
+giphy
 ndemiccreations.com
 rewards.brave.com
 master-gigya.abc.es
