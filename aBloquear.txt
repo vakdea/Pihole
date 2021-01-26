@@ -4,6 +4,8 @@
 #iphonesubmissions.apple.com
 #keyvalueservice.fe.apple-dns.net
 
+ingdirectspain.demdex.net
+ui.consentframework.com
 giphy.com
 giphy
 ndemiccreations.com
