@@ -1,0 +1,4 @@
+diagnostics.meethue.com
+google.com
+www.philips-hue.com
+philips-hue.com
