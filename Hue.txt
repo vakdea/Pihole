@@ -5,3 +5,5 @@ time3.google.com
 time4.google.com
 www.philips-hue.com
 philips-hue.com
+www.ecdinterface.philips.com
+ecdinterface.philips.com
