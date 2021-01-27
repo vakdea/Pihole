@@ -50,27 +50,9 @@
 0.0.0.0 content-people-pa.googleapis.com
 0.0.0.0 content-reminders-pa.googleapis.com
 
-r6---sn-2gb7sn7k.googlevideo.com
-r5---sn-a5mekner.googlevideo.com
-r3---sn-8vq54voxn25po-n89l.googlevideo.com
-r4---sn-h5q7dned.googlevideo.com
+
 mail-ads.google.com
 googleads.g.doubleclick.com
-^8vq54voxn25po-n89e.googlevideo.com
-^n89l.googlevideo.com
-^h5qzen7l.googlevideo.com
-^h5q7dnld.googlevideo.com
-^h5q7knel.googlevideo.com
-^8vq54voxn25po-n89l.googlevideo.com
-^n89l.googlevideo.com
-r2---sn-8vq54voxn25po-n89l.googlevideo.com
-r1---sn-8vq54voxn25po-n89l.googlevideo.com
-r1---sn-h5qzen7l.googlevideo.com
-r3---sn-8vq54voxn25po-n89e.googlevideo.com
-r5---sn-h5q7dnld.googlevideo.com
-r5---sn-8vq54voxn25po-n89l.googlevideo.com
-r4---sn-h5q7knel.googlevideo.com
-r4---sn-8vq54voxn25po-n89l.googlevideo.com
 content-autofill.googleapis.com
 firebaseperusertopics-pa.googleapis.com
 gstaticadssl.l.google.com
