@@ -8,3 +8,7 @@ philips-hue.com
 www.ecdinterface.philips.com
 ecdinterface.philips.com
 dcp.dc1.philips.com
+provision.meethue.com
+meethue.com
+philips.com
+google.com
