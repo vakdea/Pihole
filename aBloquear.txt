@@ -4,6 +4,8 @@
 #iphonesubmissions.apple.com
 #keyvalueservice.fe.apple-dns.net
 
+flipboard.com
+cdn.flipboard.com
 checkip.amazonaws.com		
 scripts.static-od.com
 in2-prod-east-us2-23fa330.trafficmanager.net		
