@@ -4,6 +4,14 @@
 #iphonesubmissions.apple.com
 #keyvalueservice.fe.apple-dns.net
 
+checkip.amazonaws.com		
+scripts.static-od.com
+in2-prod-east-us2-23fa330.trafficmanager.net		
+in2-gw2-02-ce7dd027.eastus2.cloudapp.azure.com		
+tring.clo.footprintdns.com		
+twitter.lan		
+buy.tinypass.com		
+gameplay.intel.com
 ingdirectspain.demdex.net
 ui.consentframework.com
 giphy.com
