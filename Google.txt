@@ -3,6 +3,9 @@
 #device-provisioning.googleapis.com
 #people-pa.googleapis.com
 
+ajax.googleapis.com
+suggestqueries-clients6.youtube.com
+
 # Doubleclick
 0.0.0.0 2507573.fls.doubleclick.net
 0.0.0.0 4403916.fls.doubleclick.net
