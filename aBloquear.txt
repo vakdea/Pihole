@@ -4,6 +4,8 @@
 #iphonesubmissions.apple.com
 #keyvalueservice.fe.apple-dns.net
 
+richaudience.com
+cdn3.richaudience.com
 flipboard.com
 cdn.flipboard.com
 checkip.amazonaws.com		
