@@ -9,6 +9,9 @@
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 google-analytics.com
 
+#Google Maps
+maps.googleapis.com
+
 #Google Tag Manager
 0.0.0.0 googletagmanager.com
 0·0.0.0 ssl.googletagmanager
@@ -104,6 +107,20 @@
 0.0.0.0 clients8.googleusercontent.com
 0.0.0.0 clients9.googleusercontent.com
 0.0.0.0 cllient2.googleusercontent.com
+0.0.0.0 clients0.google.com
+0.0.0.0 clients1.google.com
+0.0.0.0 clients10.google.com
+0.0.0.0 clients11.google.com
+0.0.0.0 clients2.google.com
+0.0.0.0 clients3.google.com
+0.0.0.0 clients4.google.com
+0.0.0.0 clients5.google.com
+0.0.0.0 clients6.google.com
+0.0.0.0 clients7.google.com
+0.0.0.0 clients8.google.com
+0.0.0.0 clients9.google.com
+0.0.0.0 cllient2.google.com
+0.0.0.0 clients.l.google.com
 0.0.0.0 comlh3.googleusercontent.com
 0.0.0.0 lh3.googleusercontent.comlh3.googleusercontent.com
 0.0.0.0 imgssl.constantcontact.comlh5.googleusercontent.com
