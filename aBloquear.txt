@@ -15,7 +15,7 @@ twitter.lan
 buy.tinypass.com		
 gameplay.intel.com
 ingdirectspain.demdex.net
-ui.consentframework.com
+#ui.consentframework.com
 giphy.com
 giphy
 ndemiccreations.com
@@ -26,10 +26,7 @@ grant.rewards.brave.com
 safebrowsing.brave.com
 ipv6.msftconnecttest.com
 gameberrylabs.helpshift.com
-cdninstagram.com			
-scontent-lhr8-1.cdninstagram.com
-scontent-lhr8-2.cdninstagram.com
-consent.cookiebot.com
+#consent.cookiebot.com
 crl.comodoca.com
 gameberrylabs.helpshift.com
 cdn.amplitude.com
@@ -49,7 +46,7 @@ iadsdk.apple.com
 tracker.rastreator.com
 iphonesubmissions.apple.com
 zopim.com
-gdpr-consent-tool.privacymanager.io
+#gdpr-consent-tool.privacymanager.io
 inbox-production.esports.clashroyale.com
 smoot-feedback.v.aaplimg.com
 weather-analytics-events.apple.com
@@ -89,8 +86,8 @@ www.instagram.com
 wifi-doctor.org
 tinypass.com
 graph.facebook.com
-choices.consentframework.com
-cache.consentframework.com
+#choices.consentframework.com
+#cache.consentframework.com
 sddan.mgr.consensu.org
 scontent.xx.fbcdn.net
 supportmetrics.apple.com
