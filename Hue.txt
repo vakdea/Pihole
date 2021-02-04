@@ -13,3 +13,4 @@ provision.meethue.com
 meethue.com
 philips.com
 google.com
+ws.meethue.com
