@@ -247,7 +247,6 @@ c.aaxads.com
 platform.twitter.map.fastly.net
 collector-hpn.ghostery.net
 collector-hpn.privacy.ghostery.net
-img.weblogssl.com
 cdn.krxd.net
 assets.adobedtm.com
 cdn.insurads.com
