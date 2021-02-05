@@ -4,6 +4,8 @@
 #iphonesubmissions.apple.com
 #keyvalueservice.fe.apple-dns.net
 
+https://app-measurement.com
+https://app-measurement.com/sdk-exp
 richaudience.com
 cdn3.richaudience.com
 flipboard.com
