@@ -4,6 +4,8 @@
 #iphonesubmissions.apple.com
 #keyvalueservice.fe.apple-dns.net
 
+svr6602.entelgystats.com
+entelgystats.com
 127.0.0.1 packages.microsoft.com
 0.0.0.0 packages.microsoft.com
 https://app-measurement.com
