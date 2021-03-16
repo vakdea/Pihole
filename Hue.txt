@@ -3,6 +3,8 @@ time1.google.com
 time2.google.com
 time3.google.com
 time4.google.com
+test.huedatastore.com
+
 #time.meethue.com
 #www.philips-hue.com
 #philips-hue.com
@@ -12,5 +14,4 @@ time4.google.com
 #provision.meethue.com
 #meethue.com
 #philips.com
-google.com
 #ws.meethue.com
