@@ -6,12 +6,12 @@ time4.google.com
 test.huedatastore.com
 
 #time.meethue.com
-#www.philips-hue.com
-#philips-hue.com
-#www.ecdinterface.philips.com
-#ecdinterface.philips.com
+www.philips-hue.com
+philips-hue.com
+www.ecdinterface.philips.com
+ecdinterface.philips.com
 #dcp.dc1.philips.com
-#provision.meethue.com
+provision.meethue.com
 #meethue.com
 #philips.com
 #ws.meethue.com
