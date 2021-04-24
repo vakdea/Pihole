@@ -4,6 +4,11 @@
 iphonesubmissions.apple.com
 #keyvalueservice.fe.apple-dns.net
 
+appmetrica.yandex.com
+yandexadexchange.net
+analytics.mobile.yandex.net
+extmaps-api.yandex.net
+adsdk.yandex.ru
 ad.samsungadhub.com
 samsungadhub.com
 ad.samsungads.com
