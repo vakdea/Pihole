@@ -1,9 +1,26 @@
 #api-glb-ash.smoot.apple.com
 #api.smoot.apple.com
 #bookkeeper.itunes.apple.com
-#iphonesubmissions.apple.com
+iphonesubmissions.apple.com
 #keyvalueservice.fe.apple-dns.net
 
+
+logbak.hicloud.com
+samsung-com.112.2o7.net
+metrics-dra.dt.hicloud.com
+logservice1.hicloud.com
+logservice.hicloud.com
+yandex.net
+extmaps-api.yandex.net
+trackingshipment.isg-apple.com.akadns.net
+metrics2.data.hicloud.com
+metrics1.data.hicloud.com
+metrics.data.hicloud.com
+data.hicloud.com
+samsungadhub.com
+analytics-api.samsunghealthcn.com
+bigdata.ssp.samsung.com
+analytics-api-external-alb-222534322.cn-north-1.elb.amazonaws.com.cn
 svr6602.entelgystats.com
 entelgystats.com
 127.0.0.1 packages.microsoft.com
