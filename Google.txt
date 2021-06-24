@@ -851,3 +851,4 @@ www.google.com
 mtalk.google.com
 fcmtoken.googleapis.com
 firebaseinstallations.googleapis.com
+mobile-gtalk.l.google.com
