@@ -1,7 +1,7 @@
-#play.googleapis.com
-#fonts.googleapis.com
-#device-provisioning.googleapis.com
-#people-pa.googleapis.com
+play.googleapis.com
+fonts.googleapis.com
+device-provisioning.googleapis.com
+people-pa.googleapis.com
 
 ajax.googleapis.com
 suggestqueries-clients6.youtube.com
@@ -843,3 +843,11 @@ suggestqueries.google.com
 suggestqueries.l.google.com
 calendar.google.com
 dns.google.com
+firebase-settings.crashlytics.com
+firebaselogging-pa.googleapis.com
+firebaseremoteconfig.googleapis.com
+firebase-settings.crashlytics.com
+www.google.com
+mtalk.google.com
+fcmtoken.googleapis.com
+firebaseinstallations.googleapis.com
