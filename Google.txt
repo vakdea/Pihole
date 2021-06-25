@@ -852,3 +852,4 @@ mtalk.google.com
 fcmtoken.googleapis.com
 firebaseinstallations.googleapis.com
 mobile-gtalk.l.google.com
+dns.google.com
