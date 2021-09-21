@@ -5,6 +5,7 @@ people-pa.googleapis.com
 firebasedynamiclinks.googleapis.com
 ajax.googleapis.com
 suggestqueries-clients6.youtube.com
+play.google.com
 
 # Doubleclick
 0.0.0.0 2507573.fls.doubleclick.net
