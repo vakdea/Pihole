@@ -374,3 +374,17 @@ go-pulse.net
 gdpr-web-dau-prod.privacymanager.io
 gdpr-web-logs-prod.privacymanager.io
 gdpr.privacymanager.io
+_http._tcp.packages.microsoft.com
+cdn.stripst.com
+data.logentries.com
+efda081d837fcf9f2df3123fdf8cf9eb202e0b3f.cws.conviva.com
+accounts.firefox.com
+discord.gg
+geo-applefinance-cache.internal.query.g03.yahoodns.net
+geover.prod.do.dsp.mp.microsoft.com
+zagent33.hola.org
+aligtr070.mmstat.com
+dns-test1.hola.org
+doh.dns.apple.com
+doh.dns.apple.com.v.aaplimg.com
+img.strpst.com
