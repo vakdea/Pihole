@@ -388,5 +388,4 @@ dns-test1.hola.org
 doh.dns.apple.com
 doh.dns.apple.com.v.aaplimg.com
 img.strpst.com
-ingame.id.supercell.com
 inbox.clashroyale.com
