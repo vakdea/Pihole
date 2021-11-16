@@ -389,3 +389,10 @@ doh.dns.apple.com
 doh.dns.apple.com.v.aaplimg.com
 img.strpst.com
 inbox.clashroyale.com
+empresas.sevilla.abc.es
+event-assets.brawlstars.com
+contile.services.mozilla.com
+supercell.helpshift.com
+news.ycombinator.com
+feedback.saberfeedback.com
+inbox.brawlstars.com
