@@ -16,3 +16,4 @@ provision.meethue.com
 #philips.com
 #ws.meethue.com
 data.meethue.com
+diag.meethue.com
