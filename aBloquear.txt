@@ -375,7 +375,7 @@ _http._tcp.packages.microsoft.com
 cdn.stripst.com
 data.logentries.com
 efda081d837fcf9f2df3123fdf8cf9eb202e0b3f.cws.conviva.com
-accounts.firefox.com
+#accounts.firefox.com
 discord.gg
 geo-applefinance-cache.internal.query.g03.yahoodns.net
 geover.prod.do.dsp.mp.microsoft.com
