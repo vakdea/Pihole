@@ -392,8 +392,9 @@ supercell.helpshift.com
 news.ycombinator.com
 feedback.saberfeedback.com
 inbox.brawlstars.com
-
+stats.xp.com
+pixel.xp.com
 location.services.mozilla.com
-#firefox.settings.services.mozilla.com
+firefox.settings.services.mozilla.com
 getpocket.cdn.mozilla.net
 contile.services.mozilla.com
