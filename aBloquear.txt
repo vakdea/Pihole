@@ -382,8 +382,8 @@ geover.prod.do.dsp.mp.microsoft.com
 zagent33.hola.org
 aligtr070.mmstat.com
 dns-test1.hola.org
-doh.dns.apple.com
-doh.dns.apple.com.v.aaplimg.com
+#doh.dns.apple.com
+#doh.dns.apple.com.v.aaplimg.com
 img.strpst.com
 inbox.clashroyale.com
 empresas.sevilla.abc.es
