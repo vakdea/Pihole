@@ -15,4 +15,4 @@ books-analytics-events.apple.com
 stocks-analytics-events.apple.com
 stocks-analytics-events.news.apple-dns.net
 #mask-api.fe.apple-dns.net
-c.apple.news
+#c.apple.news
