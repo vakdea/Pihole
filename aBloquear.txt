@@ -4,6 +4,7 @@
 iphonesubmissions.apple.com
 #keyvalueservice.fe.apple-dns.net
 
+hbo.yspsvc-na.net
 appmetrica.yandex.com
 yandexadexchange.net
 analytics.mobile.yandex.net
