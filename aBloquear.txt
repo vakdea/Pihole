@@ -4,6 +4,7 @@
 iphonesubmissions.apple.com
 #keyvalueservice.fe.apple-dns.net
 
+sentry.io
 hbo.yspsvc-na.net
 appmetrica.yandex.com
 yandexadexchange.net
