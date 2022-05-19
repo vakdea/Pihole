@@ -400,3 +400,6 @@ location.services.mozilla.com
 firefox.settings.services.mozilla.com
 getpocket.cdn.mozilla.net
 contile.services.mozilla.com
+relay.firefox.com
+fpn.firefox.com
+donate.mozilla.org
