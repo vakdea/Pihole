@@ -403,3 +403,5 @@ contile.services.mozilla.com
 relay.firefox.com
 fpn.firefox.com
 donate.mozilla.org
+mozilla.cloudflare-dns.com
+profile.accounts.firefox.com
