@@ -396,6 +396,10 @@ feedback.saberfeedback.com
 inbox.brawlstars.com
 stats.wp.com
 pixel.wp.com
+hd-olimpo.club
+news.ycombinator.com
+feedback.saberfeedback.com
+
 location.services.mozilla.com
 firefox.settings.services.mozilla.com
 getpocket.cdn.mozilla.net
