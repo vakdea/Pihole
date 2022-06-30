@@ -400,6 +400,9 @@ hd-olimpo.club
 news.ycombinator.com
 feedback.saberfeedback.com
 
+total-rekall.metrics.indazn.com
+apple-finance.query.yahoo.com
+
 location.services.mozilla.com
 #firefox.settings.services.mozilla.com
 getpocket.cdn.mozilla.net
