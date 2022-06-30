@@ -721,7 +721,6 @@ maps.googleapis.com
 0.0.0.0 brandmetrics.com
 0.0.0.0 vendorlist.consensu.org
 0.0.0.0 dmp.citiservi.es
-0.0.0.0 kit.fontawesome.com
 0.0.0.0 k.intellitxt.com
 0.0.0.0 widgets.stripst.com
 0.0.0.0 s.go-mpulse.net
