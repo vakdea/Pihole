@@ -97,7 +97,7 @@ iphonesubmissions.apple.com
 zopim.com
 gdpr-consent-tool.privacymanager.io
 inbox-production.esports.clashroyale.com
-smoot-feedback.v.aaplimg.com
+#smoot-feedback.v.aaplimg.com
 weather-analytics-events.apple.com
 weather-analytics-events.news.apple-dns.net
 improving.duckduckgo.com
