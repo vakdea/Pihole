@@ -84,7 +84,7 @@ cdn.amplitude.com
 dns.msftncsi.com
 connectivity-check.ubuntu.com
 eas3.msg.t-mobile.com
-health.apple.com
+#health.apple.com
 registry.my-netdata.io
 self.events.data.microsoft.com
 upload.fp.measure.office.com
