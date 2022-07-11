@@ -419,3 +419,7 @@ www.tm.ak.prd.aadg.trafficmanager.net
 telemetry.influxdata.com
 data.pendo.io
 www.redditstatic.com
+service.wemass.com
+prod-tp.sumo.mozit.cloud
+prod.balrog.prod.cloudops.mozgcp.net
+arcsubscriptions.elpais.com
