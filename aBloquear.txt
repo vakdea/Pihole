@@ -399,10 +399,8 @@ pixel.wp.com
 hd-olimpo.club
 news.ycombinator.com
 feedback.saberfeedback.com
-
 total-rekall.metrics.indazn.com
 apple-finance.query.yahoo.com
-
 location.services.mozilla.com
 #firefox.settings.services.mozilla.com
 getpocket.cdn.mozilla.net
@@ -412,3 +410,12 @@ fpn.firefox.com
 donate.mozilla.org
 mozilla.cloudflare-dns.com
 profile.accounts.firefox.com
+tls-use1.fpapi.io
+scripts.opti-digital.com
+cds.s5x3j6q5.hwcdn.net
+www4.yggtorrent.li
+api.mixpanel.com
+www.tm.ak.prd.aadg.trafficmanager.net
+telemetry.influxdata.com
+data.pendo.io
+www.redditstatic.com
