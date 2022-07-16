@@ -410,7 +410,7 @@ fpn.firefox.com
 donate.mozilla.org
 mozilla.cloudflare-dns.com
 profile.accounts.firefox.com
-tls-use1.fpapi.io
+#tls-use1.fpapi.io
 scripts.opti-digital.com
 cds.s5x3j6q5.hwcdn.net
 www4.yggtorrent.li
