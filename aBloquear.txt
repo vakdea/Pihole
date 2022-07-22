@@ -423,3 +423,7 @@ service.wemass.com
 prod-tp.sumo.mozit.cloud
 prod.balrog.prod.cloudops.mozgcp.net
 arcsubscriptions.elpais.com
+aax-eu.amazon.es
+unagi.amazon.es
+hd-olimpo.club
+ue-vod.uecdn.es
