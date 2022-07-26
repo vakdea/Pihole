@@ -427,3 +427,8 @@ aax-eu.amazon.es
 unagi.amazon.es
 hd-olimpo.club
 ue-vod.uecdn.es
+www.baidu.com
+baidu.com
+recommend.highwebmedia.com
+k-vod.uecdn.es
+mobile-collector.newrelic.com.cdn.cloudflare.net
